@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/11 16:23:39.000.530,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/11 16:57:33.000.033,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/11 17:03:50.000.820,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/11 18:19:58.000.573,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/12 15:59:33.000.647,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 18:03:46.000.126,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 13:38:57.000.212,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 19:11:01.000.038,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/12 12:57:39.000.812,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/29 16:05:00.000.472,=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/29 21:18:34.000.982,C:\Abner Projetos\EAN13\Unit1.dfm=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/29 21:18:34.000.982,C:\Abner Projetos\EAN13\Unit1.pas=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/29 21:18:38.000.393,C:\Abner Projetos\EAN13\Project1.dproj=C:\Users\Abner dos Santos\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/09 16:21:28.000.793,C:\Abner Projetos\EAN13\Project1.dproj=C:\Abner Projetos\EAN13\GerarEAN13.dproj</Transaction>
+    <Transaction>2023/03/09 16:30:38.000.863,C:\Abner Projetos\EAN13\Unit1.pas=C:\Abner Projetos\EAN13\ufrmPrincipal.pas</Transaction>
+    <Transaction>2023/03/09 16:30:38.000.863,C:\Abner Projetos\EAN13\Unit1.dfm=C:\Abner Projetos\EAN13\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2023/03/09 16:31:04.000.774,=C:\Abner Projetos\EAN13\Unit1.pas</Transaction>
+    <Transaction>2023/03/09 16:31:29.000.671,C:\Abner Projetos\EAN13\Unit1.pas=C:\Abner Projetos\EAN13\GeraEAN13.pas</Transaction>
+    <Transaction>2023/03/09 16:33:24.000.089,=C:\Abner Projetos\EAN13\Unit1.pas</Transaction>
+    <Transaction>2023/03/09 16:33:45.000.784,C:\Abner Projetos\EAN13\Unit1.pas=C:\Abner Projetos\EAN13\Gerar.Interfaces.pas</Transaction>
+    <Transaction>2023/03/09 16:33:55.000.506,C:\Abner Projetos\EAN13\GeraEAN13.pas=C:\Abner Projetos\EAN13\Gera.EAN13.pas</Transaction>
+    <Transaction>2023/03/09 16:34:35.000.672,C:\Abner Projetos\EAN13\Gera.EAN13.pas=C:\Abner Projetos\EAN13\Gerar.EAN13.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
